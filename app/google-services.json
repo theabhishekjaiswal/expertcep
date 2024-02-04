@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "361790384645",
+    "project_id": "cropexplus",
+    "storage_bucket": "cropexplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361790384645:android:357d1ff5fdea4c4f4e0a6c",
+        "android_client_info": {
+          "package_name": "com.theakj.cropexplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLsUI_pZFnOj8Lf3ZeCzFgCD6_WBmvPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361790384645:android:d6ff053e4f2ba3364e0a6c",
+        "android_client_info": {
+          "package_name": "com.theakj.expertcep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChLsUI_pZFnOj8Lf3ZeCzFgCD6_WBmvPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
